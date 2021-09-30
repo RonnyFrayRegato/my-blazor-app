@@ -1,8 +1,16 @@
-![Tutorial 4 - Azure Static Web Apps with  NET and Blazor Screenshot](https://user-images.githubusercontent.com/71354370/133623082-d74ba41e-f941-4a52-8b85-2f35ab1d3e04.png)
+![Tutorial 6 - Blazor - Build a Blazor Todo List App Screenshot](https://user-images.githubusercontent.com/71354370/135465279-b1f2bea0-c166-4527-8730-b94a6c213bbf.png)
 
-// Student: Ronny Fray Regato
+*Hello, my name is Ronny and I am a Software Engineering student at Florida Gulf Coast University in Fort Myers, FL. Here, you will find an Azure Static Web App with .NET and Blazor. This is the link to the website: https://ashy-sand-07a1b4a0f.azurestaticapps.net*
 
-// Tutorial: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+*Below is a link to the tutorial from Microsoft on how to create a new Blazor app.*
+
+// Getting Started Tutorial: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+
+*The most recent change to the static web app is the addition of a to-do list app. The screenshot at the top displays the to-do list while also showing the other pages available on the Blazor app. Below is a link to the tutorial from Microsoft on building a Blazor to-do list app.*
+
+// To-Do List Tutorial: https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0&pivots=webassembly#build-a-todo-list-blazor-app-1
+
+*The following instructions from the Getting Started Tutorial have been added as an introduction and first steps into creating a new Blazor app.*
 
 # Blazor Starter Application
 
